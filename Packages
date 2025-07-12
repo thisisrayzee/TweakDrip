@@ -1,0 +1,16 @@
+Package: com.rayz.dripalert18
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: RAy Z
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.rayz.dripalert18_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4332
+MD5sum: 2e0ba15084303cf3b3cc23a583ea962d
+SHA1: de7131ba315536bb2e9a81858ed940b9bc1445eb
+SHA256: c2855c1358fddabd2f2d489b3d985a493112e77d4dc2da0751969fb7575c14f7
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: RAy Z
+Name: DripAlert18
+
